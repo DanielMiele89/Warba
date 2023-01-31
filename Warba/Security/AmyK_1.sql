@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [AmyK]
+    WITH PASSWORD = N'us~se#h,@njuubm>gNNzw2dmmsFT7_&#$!~<manisnRmaokl', SID = 0xCEADA85E1D50684CBAB73DCE3D70FB74, DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+

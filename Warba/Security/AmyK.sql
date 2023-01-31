@@ -1,0 +1,2 @@
+﻿CREATE USER [AmyK] FOR LOGIN [AmyK];
+
