@@ -2,7 +2,7 @@
     [id]                    BIGINT           IDENTITY (1, 1) NOT NULL,
     [customerguid]          UNIQUEIDENTIFIER NOT NULL,
     [sourceid]              VARCHAR (255)    NOT NULL, -- unique identifier?
-    [dob]                   DATE             NULL,
+    [dob]                   DATE             NULL, -- dob is date
     [gender]                VARCHAR (1)      NOT NULL,
     [bankid]                INT              NOT NULL,
     [registrationtimestamp] DATETIME         NOT NULL,
