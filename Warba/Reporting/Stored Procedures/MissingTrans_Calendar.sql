@@ -2,8 +2,9 @@
 AS
 BEGIN
 
--- Daniel Miele 01/02/2023
-	SET NOCOUNT ON;
+-- DM Test 02/02/2023
+
+SET NOCOUNT ON;
 
 	SELECT *
 	FROM [WH_Warba].[inbound].[Calendar]
